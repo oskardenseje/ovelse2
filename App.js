@@ -13,7 +13,7 @@ export default function App() {
           <Text><h2>Øvelse 2 - State, events, props og references</h2></Text>
 
           <StatusBar style="auto" />
-
+{/*asdas*/}
           <FirstComponent/>
 
           <TitleComponent title = 'Første title' />
