@@ -10,10 +10,10 @@ export default function App() {
   return (
       /*Her har vi et et View med klasse navnet container og der er en enkel render View*/
       <View style={styles.container}>
-          <Text><h2>Øvelse 2 - State, events, props og references</h2></Text>
+          <Text>Øvelse 2 - State, events, props og references</Text>
 
           <StatusBar style="auto" />
-{/*asdas*/}
+
           <FirstComponent/>
 
           <TitleComponent title = 'Første title' />
